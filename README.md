@@ -20,17 +20,3 @@
 *   **Навигация:** Jetpack Navigation Compose
 *   **Сканирование ШК:** ZXing (`journeyapps:zxing-android-embedded`)
 *   **Генерация ШК:** ZXing Core (`MultiFormatWriter`)
-
-## 📸 Скриншоты
-
-*(Замените пути на ваши реальные скриншоты, если вы их добавите в папку screenshots)*
-
-| Главный экран | Экран карты | Настройки |
-| :---: | :---: | :---: |
-| ![Главный экран](screenshots/main.png) | ![Экран карты](screenshots/detail.png) | ![Настройки](screenshots/settings.png) |
-
-## 🚀 Как собрать проект
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/guspb-qa/GusCard.git
